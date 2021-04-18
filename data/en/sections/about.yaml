@@ -1,0 +1,62 @@
+# section information
+section:
+  name: About me
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: 
+
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Hi! I am Francisca, Urban Planner and (soon) Geographer from the Pontificia Universidad Católica de Chile. I love to learn new things that complement the different areas my life, this is how I began climbing, R developing and metalsmithing, which became my gratest hobbies. I invite you to learn more about me'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "fdibanez@uc.cl"
+  
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/francisca-ib%C3%A1%C3%B1ez-uribe-b706b5174/"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/fibanezu"
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: sky
+- name: Fast learner
+  percentage: 95
+  color: yellow
+- name: Iniciative
+  percentage: 90
+  color: green
+- name: Teamwork
+  percentage: 85
+  color: orange
+- name: Flexibility
+  percentage: 85
+  color: pink
+  
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

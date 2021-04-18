@@ -1,0 +1,18 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Graduation
+  image: /images/sections/achievements/grad.png
+  summary: I did my thesis defense in march 2021 where I had a grade of 6.6 over 7.0, ending my journey in the master of Urban Development.
+- title: Scholarship
+  image: /images/sections/achievements/scholarship.png
+  summary: In 2019 I won the "San Andrés scholarship for master's studies" from College UC, and in 2020 I won the internal scholarship for the master's degree in Geography and Geomatics.

@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Educación
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Pontificia Universidad Católica de Chile
+  icon: fa-book 
+  timeframe: 2019 - Presente
+  institution:
+    name: Magister en Geografía y Geomática
+    url: "http://geografia.uc.cl/Programas-academicos/magister.html"
+  publications: #(optional)
+  - title: (Pronto) Tesis sobre la relación entre el efecto de pares y los arrendadores del subsidio de arriendo. 
+    url: "#"
+  extracurricularActivities: #(optional)
+  - Ayudante del curso "Análisis y visualización de información geoespacial con R"
+  - Delegada de la generación 2020
+- name: Pontificia Universidad Católica de Chile
+  icon: fa-book 
+  timeframe: 2019 - 2021
+  institution:
+    name: Magister en Desarrollo Urbano
+    url: "https://estudiosurbanos.uc.cl/es/programa/magister-en-desarrollo-urbano/"
+  grade: #(optional)
+  publications: #(optional)
+  - title: ¡Nos llenamos de Gente!... clasificación de comunas chilenas según su criticidad por efectos de la capacidad de carga territorial en períodos de mayor población flotante.
+    url: "#"
+  extracurricularActivities: #(optional)
+  - Ayudante del curso "Gestión Ambiental Urbana"
+- name: Pontificia Universidad Católica de Chile
+  icon: fa-graduation-cap
+  timeframe: 2015 - 2019
+  institution:
+    name: Planificación Urbana
+    url: "https://estudiosurbanos.uc.cl/es/programa/planificacion-urbana/"
+  grade: #(optional)
+  extracurricularActivities: #(optional)
+  - Semifinalista del concurso BID Urban Lab 2017 
+  - Ayudante de los cursos "Laboratorio de evaluación ambiental", "Exploraciones urbanas, territorio sustentable" and "Exploraciones urbanas, las formas de la ciudad"
+ 
+- name: Pontificia Universidad Católica de Chile
+  icon: fa-university
+  timeframe: 2013-2015
+  institution:
+    name: Licenciatura en Ciencias Sociales
+    url: "#"
+  grade: #(optional)
+  extracurricularActivities: #(optional)
+  - Delegada Scout
+

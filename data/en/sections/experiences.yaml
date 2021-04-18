@@ -1,0 +1,53 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Centro de Estudios de Conflicto y Cohesión Social (COES)
+    url: "https://coes.cl/"
+    location: Santiago, Chile
+    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Research Assistant
+    start: January 2020
+    end: 
+    responsibilities:
+    - I am doing my master's thesis (Master in Geography and Geomatics) within a Mini COES project about peer efect in rental subsidy.
+    - Data Analysis
+    
+- company:
+    name: FONDEF IT18I0028
+    url: "https://www.conicyt.cl/fondef/"
+    location: Santiago, Chile
+    # company overview
+    overview: 
+  positions:
+  - designation: Research Assistant
+    start: March 2020
+    end: March 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - I did my master's thesis (Master in Urban Development) within the project "Predictor model of land carryin capacity for sustainable management".
+    - Creation of survey and methodology for the evaluation of territorial carrying capacity.
+
+- company:
+    name: Techo Chile
+    url: "https://www.techo.org/chile/inmobiliaria-social/"
+    location: Santiago, Chile
+    overview: Social real estate area, which builds of permanent homes.
+  positions:
+  - designation: Intern
+    start: December 2019
+    end: February 2020
+    responsibilities:
+    - Creation of a multivariable methodology for the selection of land suitable for construction of social hpusing through te use of ArcGis.

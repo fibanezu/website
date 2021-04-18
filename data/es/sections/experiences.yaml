@@ -1,0 +1,54 @@
+# section information
+section:
+  name: Experiencia laboral
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  template: sections/experiences.html
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Centro de Estudios de Conflicto y Cohesión Social (COES)
+    url: "https://www.coes.cl"
+    location: Santiago, Chile
+    # company overview
+    overview: 
+  positions:
+  - designation: Pontificia Universidad Católica de Chile
+    start: Enero 2020
+    end: Presente
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Estoy realizando mi tesis de magíster (Magíster en Geografía y Geomática) en un proyecto Mini COES sobre efecto de pares en el subsidio de arriendo chileno.
+    - Analisis de datos socio territoriales
+
+- company:
+    name: FONDEF IT18I0028
+    url: "https://www.uc.cl"
+    location: Santiago, Chile
+    overview: 
+  positions:
+  - designation: Ayudante de investigación
+    start: Marzo 2020
+    end: Marzo 2021
+    responsibilities:
+    - Realicé mi tesis de magíster (Magíster en Desarrollo Urbano) en el proyecto "Modelo predictor de la Capacidad de Carga para la gestión sustentable".
+    - Creación de encuesta y metodología para la evaluación de la Capacidad de Carga Territorial.
+
+- company:
+    name: Techo Chile
+    url: "https://www.techo.org/chile/inmobiliaria-social/"
+    location: Santiago, Chile
+    overview: Área inmobiliaria social, la cual busca la erradicación de campamentos mediante la construcción de viviendas definitivas.
+  positions:
+  - designation: Practicante
+    start: Jun 2015
+    end: Jan 2016
+    responsibilities:
+    - Creación de una metodología multivariable para la selección de terrenos aptos para la construcción de viviendas sociales mediante el uso de ArcGis.

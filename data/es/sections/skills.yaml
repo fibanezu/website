@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Habilidades
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/skills.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: ArcGis
+  logo: "/images/sections/skills/ArcGis.png"
+  summary: "Conocimiento avanzado de la plataforma ArcGis para mapeo y análisis espacial, además de gestión y recolección de datos."
+  url: "https://www.arcgis.com/index.html"
+
+- name: R Studio
+  logo: "/images/sections/skills/R.png"
+  summary: "Habilidades intermedias en el lenguaje R para el análisis de bases de datos y creación de cartografía mediante Self-Organizing maps."
+  url: "https://www.rstudio.com/"
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Conocimiento básico en lenguaje Python. Usado en programación. "
+  url: "https://www.python.org/"
+
+- name: Excel
+  logo: "/images/sections/skills/excel.png"
+  summary: "Nivel avanzado de Excel para el análisis de datos mediante el uso de tablas dinámicas, gráfico dinámicos, macros, entre otros."
+  url: "https://www.microsoft.com/es-cl/"
+
+- name: Análisis de datos
+  summary: "Conomiciento y experiencia en análisis de datos mediante los distintos programas mencionados anteriormente. Con foco en datos territoriales."
