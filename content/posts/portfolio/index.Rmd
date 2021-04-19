@@ -1,5 +1,5 @@
 ---
-title: Mi portafolio
+title: My portfolio
 author: 'Francisca Ibáñez'
 date: '2021-04-18'
 slug: [portfolio]
@@ -10,7 +10,7 @@ hero: images/portfolio.png
 
 
 
-Esta es una compilación de trabajos realizados a lo largo de mi paso por la universidad. Éstos son trabajos tanto grupales como individuales donde se analizan distintos tipos de bases de datos con programas como excel, ArcGis, SPSS, R y redatam.
+This in a compilation of workd that I had made during university in programs as excel, ArcGis, SPSS, R y redatam.
 
 
 <br>

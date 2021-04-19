@@ -1,0 +1,19 @@
+---
+title: Mi portafolio
+author: 'Francisca Ibáñez'
+date: '2021-04-18'
+slug: [portfolio]
+categories: [work]
+tags: [portfolio, work, urban development]
+hero: images/portfolio.png
+---
+
+
+
+Esta es una compilación de trabajos realizados a lo largo de mi paso por la universidad. Éstos son trabajos tanto grupales como individuales donde se analizan distintos tipos de bases de datos con programas como excel, ArcGis, SPSS, R y redatam.
+
+
+<br>
+
+#### 2020
+##### Taller de Tesis
