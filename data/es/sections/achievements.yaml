@@ -11,8 +11,8 @@ section:
 # Your achievements achievements
 achievements:
 - title: Graduación
-  image: /images/sections/achievements/grad.png
+  image: /images/sections/achievements/graduation.png
   summary: Defendí mi tesis en marzo de 2021 donde obtuve una nota de 6.6 sobre 7.0, terminando mi paso por el magíster de desarrollo urbano.
 - title: Beca Universitaria
-  image: /images/sections/achievements/scholarship.png
+  image: /images/sections/achievements/beca.png
   summary: En 2019 gané la "Beca San Andrés para estudios de magister" de College UC, y en 2020 gané la beca interna del magíster de Geografía y Geomática.

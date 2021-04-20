@@ -6,12 +6,13 @@ title: " Francisca Ibáñez Uribe"
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
-  es:
-    languageName: Español
-    weight: 1
   en:
     languageName: English
+    weight: 1
+  es:
+    languageName: Español
     weight: 2
+
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn

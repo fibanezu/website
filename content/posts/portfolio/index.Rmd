@@ -1,19 +1,39 @@
 ---
-title: My portfolio
-author: 'Francisca Ibáñez'
-date: '2021-04-18'
-slug: [portfolio]
-categories: [work]
-tags: [portfolio, work, urban development]
-hero: images/portfolio.png
+title: Portfolio
+author: Francisca Ibáñez
+date: '2021-04-19'
+slug: portfolio
+categories: []
+tags:
+  - work
+  - portfolio
+  - arcgis
+hero: images/portafolio.png
+menu:
+  sidebar:
+    name: Portfolio
+    identifier: portfolio
+    weight: 30
 ---
 
+### My academic portfolio
 
-
-This in a compilation of workd that I had made during university in programs as excel, ArcGis, SPSS, R y redatam.
-
+Here you will find diverse maps and images that I have done during the time I was at the university. They are `group and individual` assignments for different classes made with programs like **ArcGis, R, SPSS, excel**, among others. 
 
 <br>
 
 #### 2020
-##### Taller de Tesis
+
+* **Land evaluation - Internship at Techo Chile**
+
+Categorization of land based on accessibility to basic services through multi-criteria evaluation
+- `Excel`
+- `ArcGis`
+
+#### 2019
+
+* **Investment Plan in Public Space and Mobility**
+
+Diagnosis for the Municipality of Puente Alto against the application of the new Law ["Contributions to Public Space"](https://www.minvu.gob.cl/ley-de-aportes-al-espacio-publico/). 
+
+#### Coming soon...
