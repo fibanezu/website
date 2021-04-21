@@ -1,20 +1,24 @@
 ---
-title: Portafolio
-author: Francisca Ibáñez
-date: '2021-04-19'
-slug: portfolio
+title: Prueba
+author: ''
+date: '2021-04-21'
+slug: []
 categories: []
-tags:
-  - work
-  - portfolio
-  - arcgis
-hero: images/portafolio.png
+tags: []
+hero: 
 menu:
   sidebar:
-    name: Portafolio
-    identifier: portfolio
+    name: Prueba
+    identifier: prueba
     weight: 30
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 2
+    theme: journal
+
 ---
+
 
 ### My academic portfolio
 
